@@ -1,12 +1,3 @@
----
-title: README.md
-emoji: 🔥
-sdk: static
-pinned: true
----
-
-
-
 <br>
 <center>ℹ️ EN version</center>
 
