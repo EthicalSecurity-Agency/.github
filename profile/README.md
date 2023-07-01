@@ -1,3 +1,10 @@
+---
+title: README.md
+emoji: 🔥
+sdk: static
+pinned: true
+---
+
 
 
 <br>
@@ -32,6 +39,7 @@ If you are interested in our services or would like to learn more, don't hesitat
 
 - 🌐 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
 - 🌐 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
+- 🤗 Hugging Face: [https://huggingface.co/EthicalSecurity-Agency](https://huggingface.co/EthicalSecurity-Agency)
 - 📧 Email: info@ethicalsecurity.agency
 - 🟢 WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
 
@@ -45,6 +53,7 @@ If you are interested in the field of cybersecurity and information security, AI
 
 - 🌟 📧 Email us at: [hr@ethicalsecurity.agency](mailto:hr@ethicalsecurity.agency)
 - 🌟 🟢 Reach out to us on WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
+- 🤖 🤗 Hugging Face: [https://huggingface.co/EthicalSecurity-Agency](https://huggingface.co/EthicalSecurity-Agency)
 
 #### 👁️‍🗨️👁️‍🗨️ Follow us on social media to stay updated on our latest activities:
 - 📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
@@ -56,16 +65,15 @@ See you in our organization!
 
 
 
-<br><br><br><br><br><br><br>
+<br><br>
 
 
 
 * * *
-ℹ️ CZ_CS version
+<br>
+<center>ℹ️ CZ_CS version</center>
 
 
-<br>
-<br>
 <br>
 <br>
 
@@ -103,6 +111,7 @@ Pokud máte zájem o naše služby nebo byste se chtěli dozvědět více, nevá
 
 - 🌐 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
 - 🌐 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
+- 🤗 Hugging Face: [https://huggingface.co/EthicalSecurity-Agency](https://huggingface.co/EthicalSecurity-Agency)
 - 📧 Email: info@ethicalsecurity.agency
 - 🟢 WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
 
@@ -112,6 +121,7 @@ Pokud se zajímáte o oblast kybernetické a informační bezpečnosti, AI & ML,
 
 - 🌟 📧 Napište nám na e-mail: [hr@ethicalsecurity.agency](mailto:hr@ethicalsecurity.agency)
 - 🌟 🟢 Napište nám i na WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
+- 🤖 🤗 Hugging Face: [https://huggingface.co/EthicalSecurity-Agency](https://huggingface.co/EthicalSecurity-Agency)
 
 #### 👁️‍🗨️👁️‍🗨️ Sledujte nás na sociálních sítích a buďte v obraze o našich nejnovějších aktivitách.
 - 📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
@@ -124,4 +134,5 @@ Nashledanou v naší organizaci!
 <br><br><br><br><br><br><br>
 
 v.010723201030.01
+
 
