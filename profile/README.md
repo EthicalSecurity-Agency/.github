@@ -45,9 +45,10 @@ If you are interested in the field of cybersecurity and information security, AI
 
 - 🌟 📧 Email us at: [hr@ethicalsecurity.agency](mailto:hr@ethicalsecurity.agency)
 - 🌟 🟢 Reach out to us on WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
-- 🌟 Follow us on social media to stay updated on our latest activities:
--  -  📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
--  -  📲 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
+
+#### 👁️‍🗨️👁️‍🗨️ Follow us on social media to stay updated on our latest activities:
+- 📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
+- 📲 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
 
     
 See you in our organization!
@@ -111,9 +112,10 @@ Pokud se zajímáte o oblast kybernetické a informační bezpečnosti, AI & ML,
 
 - 🌟 📧 Napište nám na e-mail: [hr@ethicalsecurity.agency](mailto:hr@ethicalsecurity.agency)
 - 🌟 🟢 Napište nám i na WhatsApp: [+420 728 025 276](https://wa.me/+420728025276)
-- 🌟 Sledujte nás na sociálních sítích a buďte v obraze o našich nejnovějších aktivitách.
--  -  📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
--  -  📲 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
+
+#### 👁️‍🗨️👁️‍🗨️ Sledujte nás na sociálních sítích a buďte v obraze o našich nejnovějších aktivitách.
+- 📲 Instagram (CZ): [@ethicalsecurity.cz](https://www.instagram.com/ethicalsecurity.cz/)
+- 📲 Instagram (SK): [@ethicalsecurity.sk](https://www.instagram.com/ethicalsecurity.sk/)
 
 
 Nashledanou v naší organizaci!
