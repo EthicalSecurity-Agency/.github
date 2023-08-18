@@ -3,7 +3,7 @@
 
 # 🚀 Welcome to Our Organization!
 
-## Intelligence and Cybersecurity Agency | AI & ML | Research and Development | DataScience
+## Cybersecurity and Intelligence Agency | AI & ML | Research and Development | DataScience
 
 Welcome to our organization where we specialize in Intelligence, Cybersecurity, AI & ML, DataScience, and advanced technologies. We provide expert services in cybersecurity, AI & ML research, and development, ensuring the protection and intelligence strategies you need.
 
