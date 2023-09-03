@@ -135,11 +135,3 @@ Těšíme se na spolupráci!
 
 v.030923214210.05
 
-<style>
-.markdown-body {
-    font-family: monospace !important;
-}   
-.markdown-body h2 {
-    font-size: 1.35em !important;
-}
-</style>
