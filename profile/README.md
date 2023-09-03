@@ -3,7 +3,7 @@
 
 # 🚀 Welcome to Our Organization!
 
-## Cybersecurity and Intelligence Agency | AI & ML | Research and Development | DataScience
+## CyberSecurity & Intelligence Agency | AI & ML | Research & Development | DataScience
 
 Welcome to our organization where we specialize in Intelligence, Cybersecurity, AI & ML, DataScience, and advanced technologies. We provide expert services in cybersecurity, AI & ML research, and development, ensuring the protection and intelligence strategies you need.
 
@@ -76,7 +76,7 @@ Looking forward to having you with us!
 
 # 🚀 Vítejte v naší organizaci!
 
-## Kyberbezpečnostní a Zpravodajská Agentura | AI & ML | Výzkum a Vývoj | DataScience
+## Kyberbezpečnostní & Zpravodajská Agentura | AI & ML | Výzkum & Vývoj | DataScience
 
 Vítejte v naší organizaci, kde se specializujeme na Zpravodajství, Kybernetickou bezpečnost, AI & ML, DataScience a pokročilé technologie. Poskytujeme odborné služby v oblasti kybernetické bezpečnosti, výzkumu a vývoje AI & ML, zajišťujeme ochranu a strategie v oblasti zpravodajství.
 
@@ -133,4 +133,13 @@ Těšíme se na spolupráci!
 
 <br><br><br><br><br><br><br>
 
-v.180823053930.02
+v.030923214210.05
+
+<style>
+.markdown-body {
+    font-family: monospace !important;
+}   
+.markdown-body h2 {
+    font-size: 1.35em !important;
+}
+</style>
